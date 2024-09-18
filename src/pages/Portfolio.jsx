@@ -15,7 +15,7 @@ function Portfolio() {
                     <Project title="7 Wonders of The World" image="7Wonders.png" description="Interactive 7 Wonders Website" skillArray={["HTML", "CSS", "JavaScript"]} deploy="https://dolaes.github.io/Interactive-7-Wonders/" github="https://github.com/dolaes/Interactive-7-Wonders" />
                 </li>
                 <li className="p-5">
-                    <Project title="Portfolio Website" image="portfolio.png" description="Personal Portfolio Website" skillArray={["tailwindcss", "React.js", "JavaScript"]} deploy="https://dolaes.github.io/Interactive-7-Wonders/" github="https://github.com/dolaes/Interactive-7-Wonders" />
+                    <Project title="Portfolio Website" image="portfolio.png" description="Personal Portfolio Website" skillArray={["tailwindcss", "React.js", "JavaScript"]} deploy="https://danielolaes-portfolio.netlify.app/" github="https://github.com/dolaes/Portfolio-Website" />
                 </li>
                 <li className="p-5">
                     <Project title="Power Bi Showcase" image="powerBI.png" description="Microsoft Power BI Coursework" skillArray={["Microsoft Power BI"]} deploy="https://docs.google.com/document/d/1a60eMUenohA31gchtDU7yMT0keYBGhAgZaz3kKqgkQA/edit?usp=sharing" github="https://docs.google.com/document/d/1a60eMUenohA31gchtDU7yMT0keYBGhAgZaz3kKqgkQA/edit?usp=sharing" />
