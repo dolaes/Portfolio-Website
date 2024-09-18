@@ -11,7 +11,7 @@ function Resume() {
                         <li key={index}>{item}</li>
                     ))}
                 </ul>
-                <a className="font-mono text-black hover:text-white border border-black hover:bg-white font-medium rounded-lg text-sm px-5 py-2.5 text-center me-2 mb-2 dark:border-black dark:text-black dark:hover:text-white dark:hover:bg-black" href="./src/assets/danielolaes_resume_cv.pdf" download="danielolaes_resume_cv.pdf">Download Daniel Olaes's Resume</a>
+                <a className="font-mono text-black hover:text-white border border-black hover:bg-white font-medium rounded-lg text-sm px-5 py-2.5 text-center me-2 mb-2 dark:border-black dark:text-black dark:hover:text-white dark:hover:bg-black" href="./assets/danielolaes_resume_cv.pdf" download="danielolaes_resume_cv.pdf">Download Daniel Olaes's Resume</a>
             </div>
         </div>
     );
