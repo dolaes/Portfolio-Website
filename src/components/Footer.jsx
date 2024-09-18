@@ -5,17 +5,17 @@ function Footer() {
             <ul className="flex justify-center pb-3">
                 <li>
                     <a href="https://www.linkedin.com/in/daniel-olaes/" target="_blank">
-                        <img src="./assets/icons/linkedin.svg" alt="LinkedIn Icon"></img>
+                        <img src="./public/icons/linkedin.svg" alt="LinkedIn Icon"></img>
                     </a>
                 </li>
                 <li>
                     <a href="https://github.com/dolaes" target="_blank">
-                        <img src="./assets/icons/github.svg" alt="GitHub Icon"></img>
+                        <img src="./public/icons/github.svg" alt="GitHub Icon"></img>
                     </a>
                 </li>
                 <li>
                     <a href="https://www.instagram.com/daniel_dvo/" target="_blank">
-                        <img src="./assets/icons/instagram.svg" alt="Instagram Icon"></img>
+                        <img src="./public/icons/instagram.svg" alt="Instagram Icon"></img>
                     </a>
                 </li>
             </ul>
