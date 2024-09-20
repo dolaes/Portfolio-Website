@@ -1,8 +1,9 @@
+
 function Project(props) {
     return (
         <div>
             <a className="flex flex-col items-center rounded-lg md:flex-row max-w-xl bg-black shadow-xl">
-                <img className="object-contain w-80 h-48 md:w-64 md:h-48 rounded-s-lg" src={`./assets/projects/${props.image}`} alt={`${props.title} Image`}></img>
+                <img className="object-contain w-80 h-48 md:w-64 md:h-48 rounded-s-lg" src={`/assets/projects/${props.image}`} alt={`${props.title} Image`}></img>
                 <div className="flex flex-col justify-between p-4 leading-normal w-full md:w-1/2">
                     <h5 className="font-bold tracking-tight text-gray-900 dark:text-white">{props.title}</h5>
                     <p className="mb-1 font-normal text-gray-700 dark:text-gray-400">{props.description}</p>
