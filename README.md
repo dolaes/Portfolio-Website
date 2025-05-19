@@ -1,4 +1,4 @@
-# Portfolio Website
+# Portfolio Website UPDATE IN PROGRESS
 
 ## Description
 This project is Daniel Olaes's portfolio website developed using React.js with JavaScript. This single-page application portfolio will allow the user to utilze the navigation bar to render different part of the portfolio, such as an About Me section, Project Portfolio, Contact section, and Resume section. In addition, the footer that appears throughout all of the pages contains icons that lead the user to Daniel Olaes's LinkedIn, GitHub, and a Third-Party social media (Instagram). 
